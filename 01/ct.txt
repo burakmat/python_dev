@@ -1,0 +1,30 @@
+190722053;0;100;0;100;80;60;80;90;20;100;0;0;0;75;80;100;85;50;0;20;50;60;100
+Pets
+Friends
+Family
+Travel
+Helping Others
+Computational Thinking
+y
+What you are good at?
+Writing
+Travel
+Design
+Computational Thinking
+Organizational Structure
+y
+What the world needs?
+Ending Poverty
+Peace
+Compassion
+Helping Others
+Teaching
+Computational Thinking
+y
+What you can be paid for?
+Computational Thinking
+Teaching
+Design
+Sales
+Hospitality
+y
